@@ -1,0 +1,3 @@
+interface OnButtonClickedListener{
+    void onClick();
+}
